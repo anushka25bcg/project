@@ -18,12 +18,9 @@ Graphical interface for all operations
 
 Create, read, update and delete transactions
 
-Unique ID generation for secure tracking
-
 CSV-based storage requiring no database setup
 
 Search functionality for quick lookup
 
 Scrollable window to view all entries
 
-Spending limit management stored in a separate CSV file
