@@ -32,8 +32,7 @@ These are included with standard Python installations.
 Sourcecode.py (Tkinter GUI)
 transactions.csv
 4.Open a terminal or command prompt in the project directory.
-5.Run the application using:
-python Sourcecode.py
+5.Run the application using: python Sourcecode.py
 
 ● Instructions for testing :
 Run the program and use the “Add Entry” option to create sample transactions.
