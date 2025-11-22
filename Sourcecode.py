@@ -1,7 +1,6 @@
 #transactions
 import csv
 from datetime import datetime
-import uuid
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import simpledialog
@@ -150,3 +149,4 @@ tk.Button(root, text="Show All Entries", width=25, command=lambda: all_entry(fil
 
 
 root.mainloop()
+
