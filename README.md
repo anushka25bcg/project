@@ -3,7 +3,7 @@ VITyarthi project for Python essentials.
 ● Project title : 
 Personal Finance Manager using Tkinter and CSV
 
-● Overview of the project : The project stores :
+● Overview of the project :
 This project is a GUI-based personal finance tracking system built with Python and Tkinter. It allows users to record, update, view, search and delete financial transactions. All data is stored in CSV files so the project remains lightweight, portable and easy to understand.
 
 ● Features :
